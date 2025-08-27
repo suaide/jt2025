@@ -1,0 +1,4 @@
+O banco de dados do IMDB é bem grande e pode ser baixado de:
+
+http://sampa.if.usp.br/~suaide/imdb.zip
+
