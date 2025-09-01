@@ -13,7 +13,7 @@ Pré-requisitos:
 - Conhecimentos gerais de física no nível das disciplinas de física básica
 
 Programa do curso:
-- Aula 1: Introdução à IA e Aprendizado de Máquina Objetivo: Compreender os con ceitos fundamentais de IA, aprendizado de máquina (ML) e suas aplicações em física. 
+- Aula 1: Introdução à IA e Aprendizado de Máquina Objetivo: Compreender os conceitos fundamentais de IA, aprendizado de máquina (ML) e suas aplicações em física. 
 - Aula 2: Fundamentos de Redes Neurais Objetivo: Entender o funcionamento das redes neurais artificiais e como treiná-las. 
 - Aula 3: Convoluções e Redes Neurais Convolucionais (CNNs) Objetivo: Aplicar CNNs na análise de dados com estrutura espacial (imagens, calorímetros, etc.). 
 - Aula 4: Redes Recorrentes (RNNs) e Séries Temporais Objetivo: Usar RNNs (e varian tes como LSTM/GRU) para modelar sequências temporais em física.
